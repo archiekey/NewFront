@@ -15,6 +15,7 @@ Readme for Archana Venkatesh newfront Code Challenge.
     b.	From that directory execute the following command to run all tests..
         java -classpath ".:junit-4.13-rc-1.jar:hamcrest-core-1.3.jar:newfrontshapes.jar"  org.junit.runner.JUnitCore ShapesTest.AllTests
 9.  Let me know if you need any clarifcations or require me to do anything more on this.
+10. On Wednesday, November 20th, I implemented the Triangle shape and updated the test casses to test this shape as well. I also updated the Github with this change.
 
 
 
